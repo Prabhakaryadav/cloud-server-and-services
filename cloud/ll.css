@@ -1,0 +1,42 @@
+@charset "utf-8";
+body{
+	background-color:#0CF;
+}
+#submit
+{
+  display: inline-block;
+  padding: 5px 5px;
+  font-size: 18px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color:#936;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+#submit:hover {background-color:#093}
+
+#submit:active {
+  background-color:#633;
+  box-shadow:#F0F;
+  transform: translateY(4px);
+}/* CSS Document */
+#lm{
+	text-decoration: none;
+  padding: 3px 3px;
+  font-size: 17px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color:#36F;
+  background-color:#06F;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 7px #999;
+}
+#lm:hover {background-color:#093}

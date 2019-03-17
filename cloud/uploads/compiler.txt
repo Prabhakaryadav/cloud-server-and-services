@@ -1,0 +1,4 @@
+$user=$_POST['user'];
+	$fileinput=$user;
+	$filename='program.cpp';
+	$out= `cat $fileinput | ./$filename`;

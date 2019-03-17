@@ -1,0 +1,25 @@
+body{
+	background:#CCC;
+}
+
+#submit{
+	
+	
+    border:#C63;
+    color:#09F;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration:blink;
+    display: inline-block;
+    font-size: 18px;
+	
+	background-color:#09F;
+	-webkit-transition-duration: 0.2s; /* Safari */
+    transition-duration: 0.2s;
+	}
+	#submit:hover {
+    background-color:#06F; /* Green */
+    color:#09F;}
+	
+
+
